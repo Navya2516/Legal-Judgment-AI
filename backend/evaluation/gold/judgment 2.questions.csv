@@ -1,0 +1,24 @@
+﻿id,question,answerable,relevant_pages,notes,evidence_quote
+q01,What were the facts of the case?,yes,20;23,Few conventional facts are narrated; the judgment opens with the challenge to Section 66A.,The immediate cause for concern in these petitions is Section 66A of the
+q02,What were the main questions the court had to answer?,yes,23,Petitioners' main grounds of challenge.,first and foremost Section 66A infringes the fundamental right to free speech and expression
+q03,What did the court finally decide?,yes,112,Para 119 summary of what was held.,"Section 66A of the Information Technology Act, 2000 is struck down in its entirety being violative of Article 19(1)(a) and not saved under Article 19(2)"
+q04,What reasons did the court give for its decision?,yes,87;88;93,"Vagueness, overbreadth and chilling effect (paras 82-90).","it is clear that Section 66A arbitrarily, excessively and disproportionately invades the right of free speech"
+q05,What directions or orders did the court give?,yes,111;112,Para 118: Rule 3(4) read down; summary at para 119.,Rule 3(4) needs to be read down in the same manner as Section 79(3)(b)
+q06,Which Articles or Sections did the court rely on?,yes,20;25,Article 19(1)(a) and 19(2) are the central provisions.,or prevent the State from making any law
+q07,Who were the parties to the case?,yes,1;18;19;24,"Title page, list of petitions and counsel, and the State's counsel.","Mr. Tushar Mehta, learned Additional Solicitor General defended the constitutionality of Section 66A"
+q08,What happens next in this case?,yes,112,The judgment only records that the petitions are disposed of.,writ petitions are disposed in the above terms
+q09,What does Section 66A of the Information Technology Act say?,yes,20,Text of the section is set out in para 1.,any information that is grossly offensive or has menacing character
+q10,What punishment did Section 66A provide?,yes,20,,shall be punishable with imprisonment for a term which may extend to three years and with fine
+q11,Did the court find that Section 66A violates Article 14?,yes,98;99,Paras 97-98.,"We find, therefore, that the challenge on the ground of Article 14 must fail"
+q12,Did the court uphold Section 69A and the blocking Rules?,yes,106;107,Paras 107-111.,Section 69A unlike Section 66A is a narrowly drawn provision with several safeguards
+q13,How did the court read down Section 79(3)(b)?,yes,111;112,Para 117 and summary.,Section 79(3)(b) has to be read down to mean that the intermediary upon receiving actual knowledge that a court order has been passed
+q14,What did the court decide about Section 118(d) of the Kerala Police Act?,yes,104;112,Para 106.,Section 118(d) also violates Article 19(1)(a) and not being a reasonable restriction on the said right
+q15,Could Section 66A be saved by the Government's assurance that it would be used reasonably?,yes,94,Para 92.,it cannot be saved by an assurance from the learned Additional Solicitor General that it will be administered in a reasonable
+q16,What three concepts did the court say are fundamental to freedom of speech?,yes,3;29,Para 13 and the headnote.,"The first is discussion, the second is advocacy, and the third is incitement"
+q17,What does Rule 3(4) of the 2011 Intermediary Guidelines require of an intermediary?,yes,109;110;111,Rule text is quoted in para 113; read down in para 118.,"shall act within thirty-six hours and where applicable, work with user or owner of such information to disable such information"
+q18,Did the court sever any part of Section 66A and save the rest?,yes,12;97,Para 96.,We therefore hold that no part of Section 66A is severable and the provision as a whole must be declared unconstitutional
+q19,What compensation did the court award to persons arrested under Section 66A?,no,,The judgment awards no compensation.,
+q20,What did the court decide about the Aadhaar scheme?,no,,Aadhaar is not discussed.,
+q21,"Which judge wrote a dissenting opinion, and what did the dissent say?",no,,Single judgment of the Court by Nariman J.; the only 'dissent' in the text is Justice Holmes in a quoted US case.,
+q22,What bail conditions did the court lay down for the accused persons?,no,,No bail directions in the judgment.,
+q23,What is the punishment for murder under the Indian Penal Code according to this judgment?,no,,Murder is not discussed.,

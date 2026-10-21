@@ -1,0 +1,24 @@
+﻿id,question,answerable,relevant_pages,notes,evidence_quote
+q01,What were the facts of the case?,yes,1;2,Facts of Writ Petition 135 of 1970 (paras 2-9).,"was filed by the petitioner on March 21, 1970 under Article 32 of the Constitution for enforcement of his fundamental rights"
+q02,What were the main questions the court had to answer?,yes,2,Para 10.,"the issue being : what is the extent of the amending power conferred by Article 368 of the Constitution, apart from Article 13(2), on Parliament"
+q03,What did the court finally decide?,yes,70;71;502,"In this text, the closing orders remit the cases to the Constitution Bench; the extraction does not contain the signed summary of the majority view.",The cases are remitted to the Constitution Bench for disposal in accordance with law
+q04,What reasons did the court give for its decision?,yes,70;71,"Sikri C.J., Part VIII (c).","Parliament to abrogate or take away, fundamental rights or to completely change the fundamental features of the Constitution so as to destroy its identity"
+q05,What directions or orders did the court give?,yes,71;502,Closing order.,"The Constitution Bench will determine the validity of the Constitution (Twentysixth Amendment) Act, 1971 in accordance with law"
+q06,Which Articles or Sections did the court rely on?,yes,1;2,"The 24th, 25th and 29th Amendments and Articles 368 and 13(2).",The effect of the Twenty-ninth Amendment of the Constitution was that it inserted the following Acts in the Ninth Schedule to the Constitution
+q07,Who were the parties to the case?,yes,1,Title page.,Appellants: His Holiness Kesavananda Bharati Sripadagalvaru and Ors. Vs. Respondent: State of Kerala and Anr.
+q08,What happens next in this case?,yes,71;502,Remit to the Constitution Bench.,"The cases are remitted to the Constitution Bench to be decided in accordance with this judgment, and the law"
+q09,What did Sikri C.J. say the Golak Nath case had decided?,yes,70,Part VIII (a).,"case declared that a Constitutional amendment would be bad if it infringed Article 13(2), as this applied not only to ordinary legislation"
+q10,What features did the Chief Justice list as the basic structure of the Constitution?,yes,43,Para 316.,The basic structure may be said to consist of the following features: (1) Supremacy of the Constitution; (2) Republican and Democratic form of Government.
+q11,Could an amendment destroy the basic structure or framework of the Constitution?,yes,43;331,Two judges' views.,cannot have the effect of destroying or abrogating the basic structure or framework of the Constitution
+q12,"Which judge concluded that the 24th, 25th and 29th Amendment Acts are valid?",yes,301,Conclusion (3) in para 1385; judge not named on the page so the answer rests on the passage.,"The twenty fourth, the twenty-fifth and the twenty-ninth Amendment Acts are valid"
+q13,"Is Article 31C, introduced by Section 3 of the 25th Amendment, valid?",yes,501;502,Para 2250.,Section 3 of the 25th Amendment which introduced Article 31C into the Constitution is valid
+q14,Is the Preamble part of the Constitution and within the amending power?,yes,501,Para 2246.,Preamble is a part of the Constitution and is not outside the reach of the amending power under Article 368
+q15,Which Kerala land reform laws were added to the Ninth Schedule by the 29th Amendment?,yes,2,Para 5.,"The Kerala Land Reforms (Amendment) Act, 1969 (Kerala Act 35 of 1969)"
+q16,Why did Sikri C.J. say it did not matter whether Golak Nath was rightly decided?,yes,2,Para 10.,the question whether Golak Nath’s [1967] 2 S.C.R. 762 case was rightly decided or not does not matter
+q17,Who bears the costs of the proceedings?,yes,71;502,Closing paragraphs.,I would direct each party to bear its own costs
+q18,What did Sikri C.J. hold about Section 3 of the 25th Amendment?,yes,71,Part VIII (g).,"Section 3 of the Constitution (Twenty-fifth Amendment) Act, 1971 is void as it delegates power to legislatures to amend the Constitution"
+q19,What did the court say about the right to privacy under Article 21?,no,,Privacy is not discussed in this 1973 judgment.,
+q20,What did the court decide about the Goods and Services Tax?,no,,Not discussed.,
+q21,What did the court say about the Aadhaar scheme?,no,,Not discussed.,
+q22,What did the court decide about the Right to Information Act?,no,,Not discussed.,
+q23,What compensation was awarded to the petitioner Kesavananda Bharati?,no,,Only costs are addressed; no compensation is awarded to the petitioner.,

@@ -1,0 +1,41 @@
+# Secrets
+.env
+.env.*
+*.env
+!.env.example
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Private documents and generated indexes
+backend/data/uploads/*
+backend/data/indexes/*
+backend/data/extracted/*
+!backend/data/uploads/.gitkeep
+!backend/data/indexes/.gitkeep
+backend/data/results/*
+!backend/data/results/.gitkeep
+backend/data/documents.json
+backend/data/*.tmp
+
+# Evaluation: judgment PDFs, run outputs and audit sheets contain judgment text and stay local.
+# Gold question files (questions and page numbers only) may be committed.
+backend/evaluation/pdfs/*
+!backend/evaluation/pdfs/.gitkeep
+backend/evaluation/runs/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+backend/data/results/*
+!backend/data/results/.gitkeep

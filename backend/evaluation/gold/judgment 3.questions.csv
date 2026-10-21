@@ -1,0 +1,24 @@
+﻿id,question,answerable,relevant_pages,notes,evidence_quote
+q01,What were the facts of the case?,yes,76;77;78,Paras 3-5: how the reference arose from the Aadhaar challenge.,"A Bench of three judges of this Court, while considering the constitutional challenge to the Aadhaar card scheme of the Union government"
+q02,What were the main questions the court had to answer?,yes,76;79,Paras 1 and 7.,"The correctness of the decisions in M P Sharma and Kharak Singh, is to be evaluated during the course of the reference"
+q03,What did the court finally decide?,yes,430;431,"Order of the Court, para 2.",The right to privacy is protected as an intrinsic part of the right to life and personal liberty under Article 21
+q04,What reasons did the court give for its decision?,yes,275;276;277,"Dr D Y Chandrachud J., Our Conclusions (3)(C).",Privacy is a constitutionally protected right which emerges primarily from the guarantee of life and personal liberty in Article 21
+q05,What directions or orders did the court give?,yes,278;430;431,Order of the Court (i)-(iv) and data-protection direction.,The decision in M P Sharma which holds that the right to privacy is not protected by the Constitution stands over-ruled
+q06,Which Articles or Sections did the court rely on?,yes,276;277;431,"Article 21 chiefly; Articles 14, 19 and 20(3) also discussed.","an invasion of privacy must be justified on the basis of a law which stipulates a procedure which is fair, just and reasonable"
+q07,Who were the parties to the case?,yes,1;79,Title page and counsel appearing.,"JUSTICE K S PUTTASWAMY (RETD.), AND ANR. v. UNION OF INDIA AND ORS."
+q08,What happens next in this case?,yes,352;371,Nariman J. conclusion: cases go back to the original three-judge Bench; Chandrachud J. also leaves data protection to the Union government.,"These cases are, therefore, sent back for adjudication on merits to the original Bench of 3 honourable Judges of this Court"
+q09,"Which earlier decisions was the Court asked to re-examine, and how large were those Benches?",yes,76;77,Para 3.,"rendered by a Bench of eight judges and the second, in Kharak Singh"
+q10,Is the right to privacy an absolute right?,yes,3;277,Conclusion 3(H).,privacy is not an absolute right. A law which encroaches upon privacy will have to withstand the touchstone of permissible restrictions on fundamental rights
+q11,What three requirements must a law meet before it can invade life or personal liberty?,yes,3;277;278,Conclusion 3(H).,"need, defined in terms of a legitimate state aim; and (iii) proportionality which ensures a rational nexus"
+q12,Did the Court overrule ADM Jabalpur?,yes,21;165;167,Paras 117-121.,ADM Jabalpur must be and is accordingly overruled
+q13,What did the Court say about informational privacy and data protection?,yes,3;278,Conclusion 5.,Informational privacy is a facet of the right to privacy
+q14,What did the Court say about the Koushal observation on a 'miniscule fraction' of the population?,yes,21;169,Para 126.,is not a sustainable basis to deny the right to privacy
+q15,What did the Court hold about the Kharak Singh decision?,yes,275;276,Conclusion 2.,"which holds that the right to privacy is not a guaranteed right under our Constitution, is not reflective of the correct position"
+q16,Which committee did the Union government constitute on data protection?,yes,275;427,Para 185 and the concurring opinion's paras 74-75.,it has constituted a committee chaired by Justice B N Srikrishna
+q17,Why was the reference heard by a nine-judge Bench?,yes,78;79,Para 5.,a Constitution Bench presided over by the learned Chief Justice considered it appropriate that the issue be resolved by a Bench of nine judges
+q18,What did Justice Kaul say about technology and the privacy of the home?,yes,428,Para 78 of his opinion.,technology has made it possible to enter a citizen’s house without knocking at his/her door
+q19,What is the maximum sentence for sending offensive messages online under Section 66A?,no,,Section 66A is not mentioned.,
+q20,What did the Court decide about the validity of Article 370?,no,,Article 370 is not mentioned.,
+q21,What did the Court decide about reservation for Other Backward Classes?,no,,Not discussed.,
+q22,What did the Court decide about the Goods and Services Tax?,no,,Not discussed.,
+q23,What did the Court say about the election of the President of India?,no,,Not discussed.,

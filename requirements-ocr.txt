@@ -1,0 +1,11 @@
+# Optional: OCR for scanned judgments (added in Phase 3).
+# Text PDFs work without these. Scanned PDFs need them.
+#
+# Install (from the backend folder, venv active):
+#     pip install -r ..\requirements-ocr.txt
+#
+# RapidOCR ships its English models inside the package, so no separate
+# program (such as Tesseract) has to be installed and nothing is downloaded
+# when the first page is read.
+rapidocr>=3.0
+onnxruntime>=1.17

@@ -1,0 +1,11 @@
+﻿id,question,answerable,relevant_pages,notes,evidence_quote
+q01,What were the facts of the case?,yes,20;23,Few conventional facts are narrated; the judgment opens with the challenge to Section 66A.,The immediate cause for concern in these petitions is Section 66A of the
+q03,What did the court finally decide?,yes,112,Para 119 summary of what was held.,"Section 66A of the Information Technology Act, 2000 is struck down in its entirety being violative of Article 19(1)(a) and not saved under Article 19(2)"
+q04,What reasons did the court give for its decision?,yes,87;88;93,"Vagueness, overbreadth and chilling effect (paras 82-90).","it is clear that Section 66A arbitrarily, excessively and disproportionately invades the right of free speech"
+q09,What does Section 66A of the Information Technology Act say?,yes,20,Text of the section is set out in para 1.,any information that is grossly offensive or has menacing character
+q11,Did the court find that Section 66A violates Article 14?,yes,98;99,Paras 97-98.,"We find, therefore, that the challenge on the ground of Article 14 must fail"
+q15,Could Section 66A be saved by the Government's assurance that it would be used reasonably?,yes,94,Para 92.,it cannot be saved by an assurance from the learned Additional Solicitor General that it will be administered in a reasonable
+q16,What three concepts did the court say are fundamental to freedom of speech?,yes,3;29,Para 13 and the headnote.,"The first is discussion, the second is advocacy, and the third is incitement"
+q19,What compensation did the court award to persons arrested under Section 66A?,no,,The judgment awards no compensation.,
+q21,"Which judge wrote a dissenting opinion, and what did the dissent say?",no,,Single judgment of the Court by Nariman J.; the only 'dissent' in the text is Justice Holmes in a quoted US case.,
+q23,What is the punishment for murder under the Indian Penal Code according to this judgment?,no,,Murder is not discussed.,

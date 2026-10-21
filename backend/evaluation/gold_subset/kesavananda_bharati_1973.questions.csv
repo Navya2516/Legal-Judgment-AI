@@ -1,0 +1,11 @@
+﻿id,question,answerable,relevant_pages,notes,evidence_quote
+q01,What were the facts of the case?,yes,1;2,Facts of Writ Petition 135 of 1970 (paras 2-9).,"was filed by the petitioner on March 21, 1970 under Article 32 of the Constitution for enforcement of his fundamental rights"
+q03,What did the court finally decide?,yes,70;71;502,"In this text, the closing orders remit the cases to the Constitution Bench; the extraction does not contain the signed summary of the majority view.",The cases are remitted to the Constitution Bench for disposal in accordance with law
+q04,What reasons did the court give for its decision?,yes,70;71,"Sikri C.J., Part VIII (c).","Parliament to abrogate or take away, fundamental rights or to completely change the fundamental features of the Constitution so as to destroy its identity"
+q09,What did Sikri C.J. say the Golak Nath case had decided?,yes,70,Part VIII (a).,"case declared that a Constitutional amendment would be bad if it infringed Article 13(2), as this applied not only to ordinary legislation"
+q11,Could an amendment destroy the basic structure or framework of the Constitution?,yes,43;331,Two judges' views.,cannot have the effect of destroying or abrogating the basic structure or framework of the Constitution
+q15,Which Kerala land reform laws were added to the Ninth Schedule by the 29th Amendment?,yes,2,Para 5.,"The Kerala Land Reforms (Amendment) Act, 1969 (Kerala Act 35 of 1969)"
+q16,Why did Sikri C.J. say it did not matter whether Golak Nath was rightly decided?,yes,2,Para 10.,the question whether Golak Nath’s [1967] 2 S.C.R. 762 case was rightly decided or not does not matter
+q19,What did the court say about the right to privacy under Article 21?,no,,Privacy is not discussed in this 1973 judgment.,
+q21,What did the court say about the Aadhaar scheme?,no,,Not discussed.,
+q23,What compensation was awarded to the petitioner Kesavananda Bharati?,no,,Only costs are addressed; no compensation is awarded to the petitioner.,

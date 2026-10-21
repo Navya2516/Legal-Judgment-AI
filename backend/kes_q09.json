@@ -1,0 +1,213 @@
+{
+ "question_id": "q09",
+ "language": "en",
+ "seconds": 9.97,
+ "model_calls": 1,
+ "response": {
+  "document_id": "7af9efce0df1446754b1ecb97cd66d5f",
+  "question": "What did Sikri C.J. say the Golak Nath case had decided?",
+  "language": "en",
+  "language_name": "English",
+  "generated_at": "2026-10-19T20:06:52.761642Z",
+  "model": "gemini-3.1-flash-lite",
+  "answered": false,
+  "message": "The parts of the judgment that were searched do not clearly answer this question. Try asking in different words, or ask about something the judgment itself discusses.",
+  "answer": [],
+  "passages": [
+   {
+    "pages": [
+     500
+    ],
+    "score": 0.6713,
+    "excerpt": "A similar view was expressed by this Court in State of Travancore, Cochin and Anr. v. Bombay Co. Limited [1952] S.C.R. 113. In the Golak Golak Nath case, Subba Rao C.J. clarified that he had not referred to the speeches made in the Constituent Assembly for the purpose of interpreting the provisions of Article 368. Bachawat J. also took the same view. 2237. It was urged by the learned Advocate-General of Maharashtra …"
+   },
+   {
+    "pages": [
+     2
+    ],
+    "score": 0.6467,
+    "excerpt": "The vision was put in words in the Preamble and carried out in part by conferring fundamental rights on the people. The vision was directed to be further carried out by the application of directive principles. PART II-Interpretation of Golak Nath’s Case. 16. Before proceeding with the main task, it is necessary to ask : what was decided in I.C. Golak Nath v. State of Punjab [1967] 2 S.C.R. 762 ? In order to properly …"
+   },
+   {
+    "pages": [
+     2
+    ],
+    "score": 0.6304,
+    "excerpt": "8. When the case was placed before the Constitutional bench, it referred this case to a larger bench to determine the validity of the impugned Constitutional amendments. 9. Similar orders were passed in the other writ petitions. 10. The larger bench was accordingly constituted. It was then felt that it would be necessary to decide whether I.C. Golak Nath v. State of Punjab [1967] 2 S.C.R. 762 was rightly decided or …"
+   },
+   {
+    "pages": [
+     71
+    ],
+    "score": 0.6245,
+    "excerpt": "Golak Nath and Ors. v. State of Punjab and Anr. [1967] 2 S.C.R. 762, according to which it was held, by majority, that Article 13(2) of the Constitution was applicable to Constitutional amendments made under Article 368 and that for that reason the fundamental rights in Part III could not be abriged in any manner or taken away. The decision in Golak Nath has become academic, for even on the assumption that the …"
+   },
+   {
+    "pages": [
+     484
+    ],
+    "score": 0.6208,
+    "excerpt": "Hereby hangs a tale. A majority of Judges held in the Golak Nath case that the power of amendment was to be traced to Article 368. But a majority, differently composed, held that amendment of the Constitution was ’law’ within the meaning of Article 13(2) and, therefore, the Parliament had no power to take away or abridge the rights conferred by Part III of the Constitution. This finding contained in the judgment of …"
+   },
+   {
+    "pages": [
+     488
+    ],
+    "score": 0.5978,
+    "excerpt": "2180. Before dealing with these rival contentions, I may indicate how the argument of inherent limitations was dealt with in the Golak Nath case. Subba Rao C.J. who delivered the leading majority judgment said that there was considerable force in the argument but it was unnecessary to decide it (p. 805). According to Hidayatullah J. \"the whole Constitution is open to amendment. Only two dozen articles are outside …"
+   },
+   {
+    "pages": [
+     502
+    ],
+    "score": 0.0,
+    "excerpt": "2251. The 29th Amendment Act is valid. The two Kerala Acts mentioned therein, having been included in the Ninth Schedule, are entitled to the protection of Article 31B of the Constitution. 2252. I would direct each party to bear its own costs. 2253. As I am coming to the close of my judgment, drafts of judgments of several of my esteemed colleagues are trickling in. As I look at them, I hear a faint whiser of Lord …"
+   },
+   {
+    "pages": [
+     502
+    ],
+    "score": 0.0,
+    "excerpt": "ORDER 2263. The Constitution Bench will determine the validity of the Constitution (Twenty- sixth Amendment) Act, 1971 in accordance with law. 2264. The cases are remitted to the Constitution Bench for disposal in accordance with law. There will be no order as to costs incurred upto this stage."
+   },
+   {
+    "pages": [
+     306
+    ],
+    "score": 0.551,
+    "excerpt": "But, on the basis of earlier decisions of this Court, they were valid. (4) On the application of the doctrine of ’prospective over-ruling’, as explained by us earlier, our decision will have only prospective operation and, therefore, the said amendments will continue to be valid. (5) We declare that the Parliament will have no power from the date of this decision to amend any of the provisions of Part III of the …"
+   },
+   {
+    "pages": [
+     276
+    ],
+    "score": 0.5411,
+    "excerpt": "The submission was similar to the one made in Golak Nath’s case which was upheld by the majority of six judges. In the leading majority judgment it was held that it was a law which was made under Article 248 read with the residuary entry 97 of List I of the Seventh Schedule and, therefore, would be void if it took away or abridged any of the fundamental rights. Hidayatullah, J. who agreed with the conclusion did not …"
+   },
+   {
+    "pages": [
+     246
+    ],
+    "score": 0.5371,
+    "excerpt": "Even so, the normal principle that judgments pronounced by this Court would be final, cannot be ignored and unless considerations of substantial and compelling character make it necessary to do so, we should be slow to doubt the correctness of previous decisions or to depart from them. 1226. I have already pointed out that two of the learned Judges did doubt the power of Parliament to amend fundamental rights and …"
+   },
+   {
+    "pages": [
+     370
+    ],
+    "score": 0.5326,
+    "excerpt": "A counsel may sometimes make a concession in order to secure favourable verdict on an other important point, such a concession would, however, not be binding upon another counsel. It is well-settled that admission or concession made on a point of law by the counsel is not binding upon the party represented by the counsel, far less would such admission or concession preclude other parties from showing that the …"
+   },
+   {
+    "pages": [
+     473
+    ],
+    "score": 0.5318,
+    "excerpt": "2076. We were taken through an array of cases decided by the Privy Council, the Supreme Court of the United States of America, the Supreme Courts of American States, the High Court of Australia, the Supreme Court of Ireland, the High Court of Ireland, the Supreme Court of South Africa and of course our own Supreme Court, the Federal Court and the High Courts. Why, consistently with American practice, we were even …"
+   },
+   {
+    "pages": [
+     144
+    ],
+    "score": 0.5271,
+    "excerpt": "774. In Queen v. Kirby and Ors. (1956) 94, C.L.R. 295 Dixon C.J. observed: These cases, and perhaps other examples exist, do no doubt add to the weight of the general considerations arising from lapse of time, the neglect or avoidance of the question in previous cases and the very evident desirability of leaving undisturbed assumptions that have been accepted as to the validity of the provisions in question. At the …"
+   },
+   {
+    "pages": [
+     394
+    ],
+    "score": 0.5211,
+    "excerpt": "Although the majority judgment gave no reasons for its conclusion, it is permissible to look at the elaborate briefs filed by counsel in the several cases and oral arguments in order to understand what was argued and what was decided See U.S. v. Sprague 282, U.S. 716,"
+   },
+   {
+    "pages": [
+     474
+    ],
+    "score": 0.5152,
+    "excerpt": "The peculiar role played by that court in the development of the nation is rooted, apart from the implications arising out of the due process clause, in the use of a few skeleton phrases in the Constitution. We have drawn our Constitution differently. It is, however, relevant that American courts were time and again asked to pass on the existence of inherent limitations on the amending power and their attitude to …"
+   },
+   {
+    "pages": [
+     255
+    ],
+    "score": 0.5127,
+    "excerpt": "The portions that may have to be severed are the words, \"is inconsistent with or takes away, or\" and the words \"Article 14\" and the part dealing with the declaration by reason of which judicial review is excluded. The severability of these portions is permissible in view of the decision of the Privy Council in Punjab Province v. Daulat Singh and Ors. (1946) 73 Indian Appeals 59 and the principles laid down by this …"
+   },
+   {
+    "pages": [
+     22
+    ],
+    "score": 0.4594,
+    "excerpt": "176. Article 359 is most important for our purpose. It provides that: 359. (1) Where a Proclamation of Emergency is in operation the President may by order declare that the right to move any court for the enforcement of such of the rights conferred by Part III as may be mentioned in the order and all proceedings pending in any court for the enforcement of the rights so mentioned shall remain suspended for the period …"
+   },
+   {
+    "pages": [
+     467
+    ],
+    "score": 0.4497,
+    "excerpt": "380 this Court has considered the question of delegation of legislative power. Section 3 of the Essential Supplies. (Temporary Powers) Act, 1946 enabled the Central Government to make orders for maintaining or increasing supplies of any essential commodity or for securing for their equitable distribution and availability at fair prices and for regulating or prohibiting the production, supply and distribution thereof …"
+   },
+   {
+    "pages": [
+     196
+    ],
+    "score": 0.4142,
+    "excerpt": "1063. If the word \"compensation\" as it stood prior to the amendment of Article 31(2) must mean equivalent value in cash it is said by the Solicitor General that the concentration of wealth will remain unchanged and justice social, economic, and political amplified in Articles 39, 41, 42, 43, 45, 46 and 47 will be thwarted. The fulfilment of the Directive Principles is in a sense more fundamental than the mere right …"
+   },
+   {
+    "pages": [
+     287,
+     288
+    ],
+    "score": 0.3979,
+    "excerpt": "When the text is ambiguous, as for example, when the words establishing too mutually exclusive jurisdictions are wide enough to bring a particular power within either, recourse must be had to the context and scheme of the Act.\" The only course which is open to courts is to determine the extent of power expressly granted after excluding what is expressly or by necessary implication excluded. That is the view of the …"
+   },
+   {
+    "pages": [
+     245
+    ],
+    "score": 0.3955,
+    "excerpt": "The debates in the Constituent Assembly on Article 31 will disclose that after postponing its consideration for nearly a year, in the end a compromise was arrived at between those who were for the acquisition law to provide for payment of full compensation and those who wanted the right in Article 31 not to extend to the acquisition of land for giving effect to agrarian reforms."
+   },
+   {
+    "pages": [
+     431
+    ],
+    "score": 0.3852,
+    "excerpt": "That final adjustment-centre is the sovereign, the topmost rung of the ladder, the superanus or soverano, the ’authority of the last word’. Sovereignty is not the same as general State-authority, or puissance publique : it is the particular sort of State authority which is the power and the right of ultimate decision\". In one sense sovereignty is ’unlimited-unlimited and illimitable. There is no question arising in …"
+   },
+   {
+    "pages": [
+     495,
+     496
+    ],
+    "score": 0.3804,
+    "excerpt": "2214. This chain of decisions on the construction of Articles 31(2) introduced uncertainty in law and defeated to a large extent the clearly expressed intention of the amended Article 31(2) that a law providing for compensation shall not be called in question in any court on the ground that the compensation provided by it was not adequate. Shah J. in Shantilal Mangaldas [1969] S.C.R. 341 at 362, 363 case had …"
+   },
+   {
+    "pages": [
+     12,
+     13
+    ],
+    "score": 0.3789,
+    "excerpt": "whereby shall be maintained the integrity of the territory of the Republic and its sovereign rights on land, sea, and air according to justice and the law of civilized nations, and (8) this ancient land attains its rightful and honoured place in the world and makes its full and willing contribution to the promotion of world peace and the welfare of mankind. 94. While moving the resolution for acceptance of the …"
+   },
+   {
+    "pages": [
+     495
+    ],
+    "score": 0.3772,
+    "excerpt": "The Land Acquisition Act. 2211. In Union v. Metal Corporation, [1967] 1 S.C.R. 255 a Bench of two Judges consisting of Subba Rao C.J. and Shelat J. held that the law of acquisition in order to justify itself had to provide for the payment of a ’just equivalent’ or lay down principles which will lead to that result. It is only if the principles laid down are relevant to the fixation of compensation and are not …"
+   }
+  ],
+  "grounding": {
+   "points_total": 0,
+   "verified": 0,
+   "cited": 0,
+   "dropped_unsupported": 0
+  },
+  "quality": null,
+  "disclaimer": "This system provides educational explanations of court judgments to help you understand them. It is not legal advice and does not create a lawyer-client relationship. Automated summaries and translations can contain mistakes, so always check important details against the original judgment. Laws, procedures and filing deadlines change, so please verify current law and time limits independently and consult a qualified advocate before taking any legal step.",
+  "translation_notice": null
+ }
+}

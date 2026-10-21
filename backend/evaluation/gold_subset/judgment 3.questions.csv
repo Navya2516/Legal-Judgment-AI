@@ -1,0 +1,11 @@
+﻿id,question,answerable,relevant_pages,notes,evidence_quote
+q01,What were the facts of the case?,yes,76;77;78,Paras 3-5: how the reference arose from the Aadhaar challenge.,"A Bench of three judges of this Court, while considering the constitutional challenge to the Aadhaar card scheme of the Union government"
+q03,What did the court finally decide?,yes,430;431,"Order of the Court, para 2.",The right to privacy is protected as an intrinsic part of the right to life and personal liberty under Article 21
+q04,What reasons did the court give for its decision?,yes,275;276;277,"Dr D Y Chandrachud J., Our Conclusions (3)(C).",Privacy is a constitutionally protected right which emerges primarily from the guarantee of life and personal liberty in Article 21
+q09,"Which earlier decisions was the Court asked to re-examine, and how large were those Benches?",yes,76;77,Para 3.,"rendered by a Bench of eight judges and the second, in Kharak Singh"
+q11,What three requirements must a law meet before it can invade life or personal liberty?,yes,3;277;278,Conclusion 3(H).,"need, defined in terms of a legitimate state aim; and (iii) proportionality which ensures a rational nexus"
+q15,What did the Court hold about the Kharak Singh decision?,yes,275;276,Conclusion 2.,"which holds that the right to privacy is not a guaranteed right under our Constitution, is not reflective of the correct position"
+q16,Which committee did the Union government constitute on data protection?,yes,275;427,Para 185 and the concurring opinion's paras 74-75.,it has constituted a committee chaired by Justice B N Srikrishna
+q19,What is the maximum sentence for sending offensive messages online under Section 66A?,no,,Section 66A is not mentioned.,
+q21,What did the Court decide about reservation for Other Backward Classes?,no,,Not discussed.,
+q23,What did the Court say about the election of the President of India?,no,,Not discussed.,
